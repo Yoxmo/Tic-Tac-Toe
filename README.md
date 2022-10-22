@@ -5,7 +5,9 @@ Once you've got your compiler and source program ready, it is very easy to compi
 <sub> 
 
 **Step 1** − Open a new terminal window or cmd if you are on windows.
-    
+
+              $ > 
+              
 **Step 2** − Change the directory to the directory in which you have your source.cpp file. For example, if it is in C:/Users/Dell/Documents, enter your command line −
                 
                $ cd 'C:/Users/yoxmo/Documents'
